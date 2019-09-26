@@ -14,7 +14,7 @@ display: inline;
 margin: 16px;}
 .var ul{padding-top: 0px;margin-top: -46px;}
 .var ul a {border-color: orange;}
-.banner{width: 100%;height:715px;background: url(image/head.jpg)no-repeat;
+.banner{width: 100%;height:715px;background: url(/home/rohit/Desktop/Gym/image/head.jpg)no-repeat;
 	 text-align: center;}
 .banner h1{text-align: center;
 color: white;
@@ -72,7 +72,7 @@ text-align: center;}
 .fs h6{margin-left: 177px;color: red;
 
 font-size: 13px;}
-.contact{width: 100%; height: 435px; background: url(image/banner.jpg);text-align: center;margin-top: -40px; }
+.contact{width: 100%; height: 435px; background: url(/home/rohit/Desktop/Gym/image/banner.jpg);text-align: center;margin-top: -40px; }
 .con {float: left;}
 .contact h3 {color: red;
 padding-top: 50px;font-size: 21px;}
