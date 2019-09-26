@@ -1,3 +1,5 @@
 # Six-Pack-Abs-Class-Room
-A Simple Website  with help of html and css.
-this website contain some cool css effects.
+A Simple Template with help of html and css.
+this Template contain some cool css effects.
+This Template is for fitness freak.
+
